@@ -7,10 +7,7 @@
 >[Live Demo](https://project-spotify-clone.vercel.app/)
 
 ## Build with
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" width="100" height="100" />
-<img src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg" width="100" height="100" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="100" height="100" />
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*AJpFZrofvxMn3MHh9p3i_Q.jpeg" width="100" height="100" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" width="100" height="100" /><img src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg" width="100" height="100" /><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="100" height="100" /><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*AJpFZrofvxMn3MHh9p3i_Q.jpeg" width="100" height="150" />
 
 ## APIs
 * 
